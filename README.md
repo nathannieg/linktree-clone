@@ -2,7 +2,7 @@
 
 Neste projeto, desenvolvo um clone de um perfil do [Linktree](https://linktr.ee/) para expor os links das minhas redes e de alguns projetos que já desenvolvi. O objetivo do projeto é apenas praticar conhecimentos em desenvolvimento web.
 
-[Veja o live site aqui](https://nathannieg.github.io/linktree-clone/).
+- [Veja o live site aqui](https://nathannieg.github.io/linktree-clone/).
 
 ## Índice
 
